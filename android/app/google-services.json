@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "351123483398",
+    "project_id": "confvideo",
+    "storage_bucket": "confvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351123483398:android:e2385b2ffae6f3e24dcc87",
+        "android_client_info": {
+          "package_name": "com.example.conferentia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351123483398-ud8vsf2njqm8r56nkq15ntqq6jajkie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTnCdCPA5vVf72LWOhQMIVeaXNQYFZ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351123483398-anvtg1luq65f7n3p6uqcaudcee7laijc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351123483398-3s78upe7o2tn6o19jbq44ef5cmlpcngq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomCloneTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
